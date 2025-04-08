@@ -11,7 +11,7 @@ export const LoginForm = () =>{
                     <CardHeader>
                         <CardTitle className="text-3xl">Login</CardTitle>
                         <CardDescription>
-                            Conoce los horarios y disponibilidad de los profesores de la ESCOM.
+                            Hola soy Rebeca
                         </CardDescription>
                     </CardHeader>
                     <CardContent>
